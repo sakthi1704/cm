@@ -1,0 +1,10 @@
+
+ #parent {
+    display: table;
+    width: 100%;
+ }
+ .login-bg-color{
+    text-align: center;
+    background-color: blue;
+  }
+  
